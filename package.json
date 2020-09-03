@@ -1,0 +1,20 @@
+{
+  "name": "generator-yao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "files": [
+    "app",
+    "router"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chalk": "^4.1.0",
+    "command-exists": "^1.2.9",
+    "yeoman-generator": "^4.11.0"
+  }
+}

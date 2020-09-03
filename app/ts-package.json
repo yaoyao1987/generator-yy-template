@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "new": "plop --plopfile ./scripts/plopfile.ts"
+  },
+  "devDependencies": {
+    "plop": "^2.7.4"
+  }
+}
